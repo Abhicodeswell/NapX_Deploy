@@ -5,11 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-<<<<<<< HEAD
     "start": "node app.js"
-=======
-    "start":"node app.js"
->>>>>>> 16d8c7ca7929c8d9cb5b63ce4b0dd0e55d2d1bbd
   },
   "author": "Abhinav Singh",
   "license": "ISC",
